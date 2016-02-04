@@ -2,7 +2,7 @@
 
 gotastructures is a lightweight library for datastructures in golang
 
-gotastructures contains  
+### gotastructures contains  
 -stack
 
 more datastructures will be added in the future
