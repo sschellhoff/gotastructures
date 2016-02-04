@@ -10,6 +10,8 @@ more datastructures will be added in the future
 
 ## Stack example
 
+~~~Go
+
 package main
 
 import (
@@ -40,7 +42,7 @@ func main() {
 	fmt.Println(stack.IsEmpty())
 }
 
-### output:
+/* output:
 
 true
 false
@@ -49,3 +51,5 @@ false
 1337
 42
 true
+
+*/
