@@ -3,7 +3,8 @@
 gotastructures is a lightweight library for datastructures in golang
 
 #### gotastructures contains  
--stack
+- queue
+- stack
 
 more datastructures will be added in the future
 
